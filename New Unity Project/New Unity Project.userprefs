@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Hackagong/Code1.cs">
+    <Files>
+      <File FileName="Assets/StreetViewConverterTools/FetcherAddMenuItem.cs" Line="5" Column="24" />
+      <File FileName="Assets/StreetViewConverterTools/TextureTool.cs" Line="40" Column="7" />
+      <File FileName="Assets/Hackagong/Code1.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
